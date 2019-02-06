@@ -38,7 +38,7 @@ $host.ui.RawUI.WindowTitle = "AD Powershell tool - @Tr4pSec"
 #endregion
 
 
-# This is a test comment, please ignore
+
 
 function Show-Menu
 {
